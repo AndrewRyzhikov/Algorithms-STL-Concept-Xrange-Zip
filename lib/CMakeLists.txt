@@ -1,0 +1,1 @@
+add_library(algo Xrange.cpp Xrange.h Algoritms.h Algoritms.cpp Zip.h Buffer.h buffer.h)
